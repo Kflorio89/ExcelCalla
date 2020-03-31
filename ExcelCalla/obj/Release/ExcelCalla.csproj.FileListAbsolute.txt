@@ -1,0 +1,10 @@
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\bin\Release\ExcelCalla.exe.config
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\bin\Release\ExcelCalla.exe
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\bin\Release\ExcelCalla.pdb
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\bin\Release\EPPlus.dll
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\bin\Release\log4net.dll
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\bin\Release\EPPlus.xml
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\bin\Release\log4net.xml
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\obj\Release\ExcelCalla.csproj.CopyComplete
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\obj\Release\ExcelCalla.exe
+C:\Users\kflor\source\repos\ExcelCalla\ExcelCalla\obj\Release\ExcelCalla.pdb
